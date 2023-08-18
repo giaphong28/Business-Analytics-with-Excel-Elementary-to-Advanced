@@ -1,0 +1,17 @@
+To: Mr. Barry Ramos
+From: Data Department
+
+Good afternoon sir, 
+
+I have received your response and I have some explanations for my analysis.
+
+This is a analysis of the price and demand, the average percent of error of Power and Exponential model is 5.9% and 7.2%. I chose Power model because it's result has less error than Exponential model.
+
+With your recommendation, I did some further analysis, it's show that we can maximize profit with Power model is $530 and Exponential model is $450.
+
+At last, I recommend that we should chose the Power model that have more precise and  analyze market periodcaly to have a wise choice for other projects of business.
+
+(If you have any further questions or concerns, please don't hesitate to reach out. I'm more than happy to provide additional explanations or explore other modeling approaches to better suit your specific needs.)(steal from other)
+
+Your sincerely,
+Chale
